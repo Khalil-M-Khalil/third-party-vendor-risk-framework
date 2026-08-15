@@ -1,0 +1,2 @@
+vendor_id,vendor_name,service_type,criticality,data_classification,internet_exposure,privileged_access,geography,financial_dependency,continuity_dependency
+V-XXX,Example Vendor,Service type,low,internal,none,none,domestic,low,low

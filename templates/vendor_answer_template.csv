@@ -1,0 +1,2 @@
+vendor_id,question_id,answer,evidence_status,owner,remediation
+V-XXX,Q-01,yes,documented,Control Owner,Describe the remediation or sustaining action
